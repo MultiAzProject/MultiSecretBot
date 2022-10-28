@@ -1,3 +1,6 @@
+#Əkmə papanın balası :)
+
+
 from pyrogram import Client, filters
 from pyrogram.errors import FloodWait, MessageNotModified, MessageIdInvalid
 from time import sleep, strftime, gmtime, time
