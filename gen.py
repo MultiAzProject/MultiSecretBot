@@ -3,7 +3,7 @@ from pyrogram import Client
 import os
 
 os.system("pip3 install -U pip")
-os.system("pip3 install -U pyrogram")
+os.system("pip3 install pyrogram==1.3.6")
 os.system("clear")
 
 async def main():
